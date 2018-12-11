@@ -1,0 +1,2 @@
+# friendManage
+antd + egg + mysql
